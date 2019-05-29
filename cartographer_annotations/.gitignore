@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+ 
+# 忽略*.o和*.a文件
+ *.[oa] 
+ *.[out]
+*build
+build    #过滤整个build文件夹
+devel
+*.class    #过滤所有.class文件
+.idea 
+ cartographer
+ cartographer_ros
+ ceres-solver
+Eigen 
+src 
+.zip
+orig
+backup
+pictures
+html
+note
