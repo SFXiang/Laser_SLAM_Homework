@@ -9,5 +9,6 @@
 -   [x] gmapping : 对gmapping的流程进行了分析。
 -   [x] ls_slam :  实现了一个二维位姿的图优化，手写了一个BA。
 -   [x] occupany_mapping : 实现了基于已知定位的覆盖栅格建图算法。
--   [x] cartographer_annotation : 实现了基于已知定位的覆盖栅格建图算法。
+-   [x] cartographer_annotation : cartographer算法注解。
 
+![激光SLAM知识框架](./激光SLAM知识框架.png)
