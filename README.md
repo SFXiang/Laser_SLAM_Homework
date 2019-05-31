@@ -1,7 +1,7 @@
 # laser-slam
 深蓝学院 第一期激光slam 作业完整答案解析
 
-1.  在ros工作空间的src文件夹下执行 git clone
+1.  在ros工作空间的src文件夹下执行 git clone 
 2.  共有5个工程，具体分析看每个工程的pdf课件和README文件。
 
 -   [x] calib_odom : 实现了一个基于csm库的icp函数的激光里程计，并用线性最小二乘对里程计做了矫正。
