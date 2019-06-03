@@ -12,3 +12,4 @@
 -   [x] cartographer_annotation : cartographer算法注解。
 
 ![激光SLAM知识框架](./激光SLAM知识框架.png)
+![激光SLAM方案对比](./激光SLAM方案对比.png)
